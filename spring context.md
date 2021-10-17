@@ -70,6 +70,12 @@ ConfigurableWebApplicationContext则是web application context的通用接口，
 
 
 
+参考资料:
+
+[源码理解Spring中的各种context](https://www.jianshu.com/p/2537e2fec546)
+[理解Spring容器、BeanFactory和ApplicationContext](https://www.jianshu.com/p/2854d8984dfc)
+[spring beans架构](https://blog.csdn.net/szwandcj/article/details/50688616)
+[spring context简述](https://www.cnblogs.com/deveypf/p/11406940.html)
 
 
 
